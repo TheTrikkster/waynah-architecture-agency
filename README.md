@@ -1,6 +1,6 @@
 # waynah architecture agency
 
-It's a mission that I had from an association (waynah architecture agency), the subject is architecture and it is represented in the form of posts. The stacks I used to build this site are React, TypeScript and AWS
+The subject of this application is the architecture and it is represented as posts. The stacks used: React, TypeScript and AWS
 
 the steps to follow to launch the site (write in the terminal) :
 
@@ -11,5 +11,7 @@ the steps to follow to launch the site (write in the terminal) :
 3 - npm install
 
 4 - npm start
+
+You will have an error with aws-export because you do not have access to this file, it is that the administrators can give them to you, you can delete this error in the code but you will not have the posts.
 
 Some pages are prohibited for you, access is restricted to administrators only (these pages represent a CRUD).
